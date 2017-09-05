@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Ram
  */
 public class Class2 {
     private void f1() {
